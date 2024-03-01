@@ -7,12 +7,10 @@
   Hey I'm Gabe. A programmer from Canada.
 
 ## Skills
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  ![PyPI - Python Version](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Static Badge](https://img.shields.io/badge/HTML-orange)
-  ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
-  ![Static Badge](https://img.shields.io/badge/Git-green)
-
+<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
+<a target="_blank" href="https://icons8.com/icon/13441/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/20906/git">Git</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
+<a target="_blank" href="https://icons8.com/icon/108784/javascript">JavaScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 
 ## Non-Tech Interests
