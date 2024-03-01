@@ -1,4 +1,9 @@
 # G Linski
+![Alt text](bannerWheat.jpg "me")
+
+
+![Alt text](myPic.png "me")
+
 
 ## About Me:
 	-
@@ -22,6 +27,15 @@
   - One Day this will be filled
 
 ## Achievements
-![Alt text](me.jpg "a title")
+| Badge | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+
+
+
 
 
