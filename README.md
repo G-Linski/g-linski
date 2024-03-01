@@ -18,6 +18,10 @@
   - Brewing Beer
   - Volleyball
 
-## Project
+## Projects
   - One Day this will be filled
+
+## Achievements
+![Alt text](me.jpg "a title")
+
 
