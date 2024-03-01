@@ -1,9 +1,9 @@
 # G Linski
-<img align="center" src="bannerWheat.jpg" width="100%" height="300" />
+  <img align="center" src="./assets/img/bannerWheat.jpg" width="100%" height="300" />
 
 ## About Me:
- <img align="center" src="myPic.png" width="200" height="200" />
- <p>
+  <img align="center" src="./assets/img/myPic.png" width="200" height="200" />
+  <p>
   Hey I'm Gabe. A programmer from Canada. Currently working through a program 
   at MITT to improve my skills.
   Once I'm a little more through the course, I'll actually have stuff to add 
@@ -22,12 +22,13 @@
 
 ## Skills
 <div style position='flex'>
-  <img align="center" src="python-icon.png" width="50" height="50" />
-  <img align="center" src="js-icon.png" width="50" height="50" />
-  <img align="center" src="git-icon.png" width="50" height="50" />
-  <img align="center" src="html-icon.png" width="50" height="50" />
-  <img align="center" src="css-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/python-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/js-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/git-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/html-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/css-icon.png" width="50" height="50" />
 <div>
+
 ## Non-Tech Interests
   - Ultimate Frisbee
   - Board Games
@@ -38,14 +39,16 @@
   - One Day this will be filled
 
 ## Achievements
-| Badge | Description |
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+  - Currently Empty Frame
+
+  | Badge | Description |
+  | ----------- | ----------- |
+  | Header | Title |
+  | Paragraph | Text |
 
 
 ## The Stats Portion
-![g-linski's Stats](https://github-readme-stats.vercel.app/api?username=g-linski&theme=vue&show_icons=true&hide_border=true&count_private=true)
+  ![g-linski's Stats](https://github-readme-stats.vercel.app/api?username=g-linski&theme=vue&show_icons=true&hide_border=true&count_private=true)
 
 
 
