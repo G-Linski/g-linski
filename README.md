@@ -26,7 +26,7 @@
   <img align="center" src="./assets/img/js-icon.png" width="50" height="50"/>
   <img align="center" src="./assets/img/git-icon.png" width="50" height="50"/>
   <img align="center" src="./assets/img/html-icon.png" width="50" height="50"/>
-  <img align="center" src="./assets/img/css-icon.png" width="50" height="50"/>
+  <img align="center" src="./assets/img/css-blue-icon.png" width="50" height="50"/>
 <div>
 
 ## Non-Tech Interests
