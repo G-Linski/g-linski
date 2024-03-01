@@ -7,11 +7,10 @@
   Hey I'm Gabe. A programmer from Canada.
 
 ## Skills
-<a href="https://www.flaticon.com/free-icons/html-5" title="html 5 icons">Html 5 icons created by Freepik - Flaticon</a>
-<a target="_blank" href="https://icons8.com/icon/13441/python">Python</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/20906/git">Git</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-<a target="_blank" href="https://icons8.com/icon/108784/javascript">JavaScript</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
-
+  <img align="center" src="python-icon.png" width="50" height="50" />
+  <img align="center" src="js-icon.png" width="50" height="50" />
+  <img align="center" src="git-icon.png" width="50" height="50" />
+  <img align="center" src="html-icon.png" width="50" height="50" />
 
 ## Non-Tech Interests
   - Ultimate Frisbee
