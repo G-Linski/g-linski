@@ -1,8 +1,8 @@
 # G Linski
-  <img align="center" src="./assets/img/bannerWheat.jpg" width="100%" height="300" />
+  <img align="center" src="./assets/img/bannerWheat.jpg" width="100%" height="300"/>
 
 ## About Me:
-  <img align="center" src="./assets/img/myPic.png" width="200" height="200" />
+  <img align="center" src="./assets/img/myPic.png" width="200" height="200"/>
   <p>
   Hey I'm Gabe. A programmer from Canada. Currently working through a program 
   at MITT to improve my skills.
@@ -22,11 +22,11 @@
 
 ## Skills
 <div style position='flex'>
-  <img align="center" src="./assets/img/python-icon.png" width="50" height="50" />
-  <img align="center" src="./assets/img/js-icon.png" width="50" height="50" />
-  <img align="center" src="./assets/img/git-icon.png" width="50" height="50" />
-  <img align="center" src="./assets/img/html-icon.png" width="50" height="50" />
-  <img align="center" src="./assets/img/css-icon.png" width="50" height="50" />
+  <img align="center" src="./assets/img/python-icon.png" width="50" height="50"/>
+  <img align="center" src="./assets/img/js-icon.png" width="50" height="50"/>
+  <img align="center" src="./assets/img/git-icon.png" width="50" height="50"/>
+  <img align="center" src="./assets/img/html-icon.png" width="50" height="50"/>
+  <img align="center" src="./assets/img/css-icon.png" width="50" height="50"/>
 <div>
 
 ## Non-Tech Interests
@@ -39,13 +39,12 @@
   - One Day this will be filled
 
 ## Achievements
-  - Currently Empty Frame
+  - Currently an Empty Frame, Hopefully to Be Filled as Well
 
   | Badge | Description |
   | ----------- | ----------- |
   | Header | Title |
   | Paragraph | Text |
-
 
 ## The Stats Portion
   ![g-linski's Stats](https://github-readme-stats.vercel.app/api?username=g-linski&theme=vue&show_icons=true&hide_border=true&count_private=true)
