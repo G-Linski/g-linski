@@ -1,5 +1,5 @@
 # G Linski
-<img align="center" src="bannerWheat.jpg" />
+<img align="center" src="bannerWheat.jpg" width="100%" height="300" />
 
 ## About Me:
  <img align="center" src="myPic.png" width="200" height="200" />
@@ -27,7 +27,7 @@
   <img align="center" src="git-icon.png" width="50" height="50" />
   <img align="center" src="html-icon.png" width="50" height="50" />
   <img align="center" src="css-icon.png" width="50" height="50" />
-
+<div>
 ## Non-Tech Interests
   - Ultimate Frisbee
   - Board Games
