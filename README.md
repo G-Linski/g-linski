@@ -1,15 +1,27 @@
 # G Linski
-![Alt text](bannerWheat.jpg "me")
-
+<img align="center" src="bannerWheat.jpg" />
 
 ## About Me:
  <img align="center" src="myPic.png" width="200" height="200" />
-  Hey I'm Gabe. A programmer from Canada. Currently working through a program at MITT to improve my skills.
-  Once I'm a little more through the course, I'll actually have stuff to add to this page.
+ <p>
+  Hey I'm Gabe. A programmer from Canada. Currently working through a program 
+  at MITT to improve my skills.
+  Once I'm a little more through the course, I'll actually have stuff to add 
+  to this page.
   Right now I'm not too shabby at HTML, Python, JavaScript and CSS.
-  In the near future I'd like to learn about database management and app development.
+  In the near future I'd like to learn about database management and 
+  app development.
+  </p>
+  <p>
+  Outside of programming I enjoy playing volleyball and ultimate. 
+  Though neither I'm considered particularily great at.
+  I love country music, though I'm often scowled at for saying so. 
+  Some other interests are board games, 
+  puzzles, reading sci-fi, brewing beer and watching bad horror movies.
+  </p>
 
 ## Skills
+<div style position='flex'>
   <img align="center" src="python-icon.png" width="50" height="50" />
   <img align="center" src="js-icon.png" width="50" height="50" />
   <img align="center" src="git-icon.png" width="50" height="50" />
