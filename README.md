@@ -6,9 +6,8 @@
 
 
 ## About Me:
-	-
-  - Second item
-  - Third item
+ <img align="center" src="myPic.png" width="200" height="200" />
+  Hey I'm Gabe. A programmer from Canada.
 
 ## Skills
   - Python
@@ -33,6 +32,7 @@
 | Paragraph | Text |
 
 
+## The Stats Portion
 
 
 
